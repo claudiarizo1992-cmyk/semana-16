@@ -1,0 +1,14 @@
+[
+    {
+        "cliente": "Juan Perez",
+        "producto": "Hamburguesa clasica",
+        "cantidad": 2,
+        "total": 13.00
+    },
+    {
+        "cliente": "Maria Lopez",
+        "producto": "Jugo natural",
+        "cantidad": 2,
+        "total": 5.00
+    }
+]    

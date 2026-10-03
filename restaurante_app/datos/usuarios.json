@@ -1,0 +1,23 @@
+[
+    {
+        "identificacion": "0912345678",
+        "nombre": "juan perez",
+        "usuario": "admin",
+        "rol": "Empleado",
+        "estado": "Activo"
+    },
+    {
+        "identificacion": "0951594431",
+        "nombre": "antonio",
+        "usuario": "ant",
+        "rol": "Empleado",
+        "estado": "Activo"
+    },
+    {
+        "identificacion": "53232",
+        "nombre": "ada",
+        "usuario": "asdasdad",
+        "rol": "Empleado",
+        "estado": "Activo"
+    }
+]
